@@ -19,7 +19,8 @@ int main()
   cin >> i4; //read into integer object
   i2=i4; //store value of i4 into i2 (implement function explicitly, not default one)
   if(i1!=i2)
-  { //chk i1 and i2 have same value
+  { 
+    //chk i1 and i2 have same value
     cout<<”not same”;
   }
 }
