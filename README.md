@@ -24,3 +24,26 @@ int main()
     cout<<”not same”;
   }
 }
+
+#Sample output 
+
+Enter first integer : 2
+Enter second integer : 3
+i4 = 5
+Enter any Integer : 5
+
+Updated value of second integer i2 : 5
+i1 = 3
+i2 = 5
+i3 = 0
+i4 = 5
+i5 = 5
+
+Check i1 and i2 same or not : Not same
+i1 + i2 = 8
+i2 - i4 = 0
+i5 / i4 = 1
+i5 * i5 = 25
+
+Process returned 0 (0x0)   execution time : 14.412 s
+Press any key to continue.
